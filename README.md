@@ -26,3 +26,4 @@ Check out also the following projects:
   preview versions are available on Maven Central. The project supports artifact and source
   code scanning for license terms and features the metaeffekt vulnerability dashboard for
   vulnerability assessments and vulnerability monitoring.
+  
